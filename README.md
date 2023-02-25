@@ -27,4 +27,5 @@ python inference.py
 
 ---
 https://github.com/SKTBrain/KoBERT
+
 https://github.com/eagle705/pytorch-bert-crf-ner
